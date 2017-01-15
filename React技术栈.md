@@ -25,6 +25,7 @@
 
 ##2. NPM
 ##3. Webpack
+0. [前端工程化概述](https://segmentfault.com/a/1190000005594760):详细的告诉你在前端中,有哪些内容需要工程化实现.只有你知道了你要解决什么问题,才能去理解用哪些工具去实现这解决方案.
 1. [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f#):完美入门教程,看完了基本上对Webpack就已经上手了!
 2. [Webpack傻瓜式指南（一）](https://zhuanlan.zhihu.com/p/20367175?columnSlug=FrontendMagazine):内容和上面一篇文章是重复的,但是可以看着巩固下;
 3. [Webpack傻瓜指南（二）开发和部署技巧
